@@ -40,7 +40,10 @@ class distributed_diffusion_map:
         #return a real value equalling the gaussian probablity of transition between points x and y
 
         d=.5
-        return exp(-1/self.epsilon*((x[0]-y[0])**2+(x[1]-y[1])**2+(x[2]-y[2])**2))/d
+        value = 0
+        for index in range(0, len(x)):
+            value += (x[index]-y[index])**2
+        return exp(-1/self.epsilon*value)/d
         
     
     def rdd_row(self, point1):
