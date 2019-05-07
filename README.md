@@ -11,4 +11,4 @@ y.calculate_eigenvalues_v2()<br />
 y.get_transformed_data()<br />
 
 After this the final diffusion map will be stored in y.dmap. Included in this project is a jupyter notebook that illustrates this process for a simple dataset.
-If you want a simple environment to test this class I recommend the jupyter/pyspark-notebook. You will only need to install the sparkDiffusionMap module.
+If you want a simple environment to test this class I recommend the jupyter/pyspark-notebook docker container. You will only need to install the sparkDiffusionMap module.
