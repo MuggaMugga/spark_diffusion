@@ -1,0 +1,37 @@
+Bibliography
+
+An Introduction to Diffusion Maps: https://inside.mines.edu/~whereman/papers/delaPorte-Herbst-Hereman-vanderWalt-PRASA-2008.pdf
+
+Diffusion Map
+https://en.wikipedia.org/wiki/Diffusion_map
+
+pyDiffMap:
+https://github.com/DiffusionMapsAcademics/pyDiffMap / https://pydiffmap.readthedocs.io/en/master/jupyter%20notebook%20tutorials/Spherical_Harmonics/Spherical_Harmonics.html
+
+Diffusion Maps:
+https://pdf.sciencedirectassets.com/272379/1-s2.0-S1063520306X00660/1-s2.0-S1063520306000546/main.pdf?x-amz-security-token=FQoGZXIvYXdzECkaDCUptczSdpibaIkzmyK3A36%2FIVVSEE8LDmJJI4qGG0LuDDzpEgNm5oXeSmhI4N7EpEybJmyppfpYYLbG4AP8sA%2Bwj%2FRft1RyGPxHtVdbr20fj3Z6wv2VX5Fd0%2B51fuS1XBdpj8WEpB8z2xkoF6enfELJ%2BNNCdTZyRcz7GgJZwNmGChQfZFRjf8JV0XDrNRhOOKBAAL6bXecRUlDzH5QlgiDdyIs4n7l0DxG%2Bmz52gvkFa6uDvdIM1%2BPVzQ6d8PXi5fXKwCVeT4SVSmCC1vzA89HR6n3Vp%2FbfTnTP%2B%2BkXSnEOwRyR5Gi%2BbvIes3HE4B6VWnLHSpQY6gZpxCyUjepz0fBpHHHbOKndKSeVABrjj9X%2B%2B7Al2B26zhNccB5lUYpSuseA99nV6C8W%2BjXjq4o03PXYTgiWqKJqI3FEPtjTnBYsqivr%2FMTRzILyaSePWmpihhenR8gGjqNqSBt%2Fch6L3wAfo%2FEqL4ZedpoZXybRe4QljjywGRp09gZQvs9mxTnDweuN4aJ5VpXda2tldX1QehrYOwU3uIKURiFcc%2B%2BWwY7DNx2BUnAvo%2FZN1h%2FxcuuciaHPX5MeY6ZOL2ubMccFU17MRSHmxGUo%2FsXe5AU%3D&AWSAccessKeyId=ASIAQ3PHCVTY6NM4ZSFC&Expires=1553445918&Signature=DmK0YoW7n%2F0xRPJ%2FiApjTQLvrpM%3D&hash=5f3b9c68ddb4bac64cb7b5419125867b491f52c9400969e503251e79003340ee&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1063520306000546&tid=spdf-f303b656-9472-476c-8a88-b1b0d466891a&sid=63deeeff2a32494b7b1acfe4f9f136dc26bcgxrqa&type=client
+
+Nonlinear Dimensionality Reduction II: Diffusion
+https://www.stat.cmu.edu/~cshalizi/350/lectures/15/lecture-15.pdf
+
+Diffusion Maps for Changing Data:
+https://www.sciencedirect.com/science/article/pii/S1063520313000225/pdfft?md5=c7d74a60109b0afb2d98b95de925d1a5&pid=1-s2.0-S1063520313000225-main.pdf
+
+Large Scale Matrix Multiplication with pyspark: 
+https://medium.com/@rantav/large-scale-matrix-multiplication-with-pyspark-or-how-to-match-two-large-datasets-of-company-1be4b1b2871e
+
+Motion Planning with Diffusion Maps:
+http://web.mit.edu/miaoliu/www/publications/IROS16.pdf
+
+Geometric diffusions as a tool for harmonic analysis and structure definition of data: Diffusion maps:
+https://www.pnas.org/content/pnas/102/21/7426.full.pdf
+
+Understanding the geometry of transport: diffusion maps for Lagrangian trajectory data unravel coherent sets:
+https://arxiv.org/pdf/1603.04709.pdf
+
+A Unified View of Diffusion Maps and Signal Processing on Graphs:
+https://arxiv.org/pdf/1806.03174.pdf
+
+Factorized Diffusion Map Approximation:
+http://proceedings.mlr.press/v22/amizadeh12/amizadeh12.pdf
+
